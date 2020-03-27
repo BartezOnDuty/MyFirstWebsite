@@ -1,0 +1,27 @@
+body{
+  background:rgba(92, 84, 112, 0.8);
+}
+h1{
+  color:rgb(0, 200, 68);
+  font-size:99px;
+  text-decoration:underline;
+  text-transform: lowercase;
+}
+h2{
+  color:red;
+  font-size:80px;
+  text-decoration:underline;
+  text-transform: lowercase;
+}
+h2 span{
+  text-decoration: line-through;
+}
+.small {
+  font-size:8px;
+}
+#first{
+  font-size:120px;
+}
+span{
+  font-style:italic;
+}
