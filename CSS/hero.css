@@ -1,0 +1,62 @@
+html, body{
+  font-family: fantasy, Arial, sans-serif;
+  margin:0;
+
+}
+header{
+  background-color: rgb(42, 72, 200);
+  padding: 40px;
+  text-align: center;
+
+}
+h1 {
+  font-size: 90px;
+  color: white;
+}
+header img{
+  align-items: center;
+  border-radius: 70px;
+  width: 215px;
+  border: 15px solid rgba(51, 175, 239, 0.85);
+}
+.content{
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: rgb(228, 168, 79);
+  padding: 20px;
+}
+img.big-image{
+  max-width: 100%;
+  border-radius: 50%;
+}
+p.caption{
+  font-size: 40px;
+  color: lightgrey;
+  font-style: italic;
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a{
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  color: blue;
+}
+footer{
+  padding: 40px 20px;
+  color: rgb(24, 75, 187);
+  margin: 20px;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+  display: inline;
+  text-align: center;
+  margin: 0 20px;
+}
+}
